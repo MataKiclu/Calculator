@@ -1,0 +1,16 @@
+D:\Skola\Visual Studio 2019 proffesional\Moji radovi\Kalkulator\obj\Debug\net5.0\Kalkulator.csprojAssemblyReference.cache
+D:\Skola\Visual Studio 2019 proffesional\Moji radovi\Kalkulator\obj\Debug\net5.0\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Skola\Visual Studio 2019 proffesional\Moji radovi\Kalkulator\obj\Debug\net5.0\Kalkulator.AssemblyInfoInputs.cache
+D:\Skola\Visual Studio 2019 proffesional\Moji radovi\Kalkulator\obj\Debug\net5.0\Kalkulator.AssemblyInfo.cs
+D:\Skola\Visual Studio 2019 proffesional\Moji radovi\Kalkulator\obj\Debug\net5.0\Kalkulator.csproj.CoreCompileInputs.cache
+D:\Skola\Visual Studio 2019 proffesional\Moji radovi\Kalkulator\bin\Debug\net5.0\Kalkulator.exe
+D:\Skola\Visual Studio 2019 proffesional\Moji radovi\Kalkulator\bin\Debug\net5.0\Kalkulator.deps.json
+D:\Skola\Visual Studio 2019 proffesional\Moji radovi\Kalkulator\bin\Debug\net5.0\Kalkulator.runtimeconfig.json
+D:\Skola\Visual Studio 2019 proffesional\Moji radovi\Kalkulator\bin\Debug\net5.0\Kalkulator.runtimeconfig.dev.json
+D:\Skola\Visual Studio 2019 proffesional\Moji radovi\Kalkulator\bin\Debug\net5.0\Kalkulator.dll
+D:\Skola\Visual Studio 2019 proffesional\Moji radovi\Kalkulator\bin\Debug\net5.0\ref\Kalkulator.dll
+D:\Skola\Visual Studio 2019 proffesional\Moji radovi\Kalkulator\bin\Debug\net5.0\Kalkulator.pdb
+D:\Skola\Visual Studio 2019 proffesional\Moji radovi\Kalkulator\obj\Debug\net5.0\Kalkulator.dll
+D:\Skola\Visual Studio 2019 proffesional\Moji radovi\Kalkulator\obj\Debug\net5.0\ref\Kalkulator.dll
+D:\Skola\Visual Studio 2019 proffesional\Moji radovi\Kalkulator\obj\Debug\net5.0\Kalkulator.pdb
+D:\Skola\Visual Studio 2019 proffesional\Moji radovi\Kalkulator\obj\Debug\net5.0\Kalkulator.genruntimeconfig.cache
